@@ -1,0 +1,5 @@
+usar esse comando sen�o o json-server d� erro:
+adb reverse tcp:3333 tcp:3333
+
+passo pra instalar o react-native-vector-icons:
+https://github.com/oblador/react-native-vector-icons
