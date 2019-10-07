@@ -3,3 +3,6 @@ adb reverse tcp:3333 tcp:3333
 
 passo pra instalar o react-native-vector-icons:
 https://github.com/oblador/react-native-vector-icons
+
+comando pra rodar a api:
+json-server --watch server.json --port 3333
